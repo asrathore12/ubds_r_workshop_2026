@@ -2,3 +2,8 @@
 Repository for the UBDS R workshop
 
 This repository contains scripts, data, and R code for the R workshop I attended.
+
+## Directories
+
+- **shell_scripts/** - Bash scripts from workshop
+- **analysis/** - Code and data for R workshop
